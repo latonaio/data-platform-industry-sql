@@ -1,6 +1,6 @@
 LOCK TABLES `data_platform_industry_industry_data` WRITE;
 
-INSERT INTO `data_platform_industry_industry_data` (`Indusry`)
+INSERT INTO `data_platform_industry_industry_data` (`Industry`)
 VALUES
 	('01');
 	('02');
